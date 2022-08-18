@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: red;
+}
+.section{
+    height: 100px;
+    width: 200px;
+}
+
+.uno {
+    background-color: purple;  
+}
+
+.dos, .tres{
+    background-color: blue;
+    color: orange;
+}
+.negro{
+    background-color: black;
+}
+
+.uno h2, #seis h2{
+    color: yellow;
+}
+
+#cuatro h2, #cinco h2{
+    color: white;
+}
